@@ -1,12 +1,12 @@
 
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.runtime.Composable
-import ui.screens.earthinspace.EarthInSpace
+import ui.screens.cardflipanimation.FlipCardScreen
 
 @Composable
 fun App() {
     MaterialTheme {
-        EarthInSpace()
+        FlipCardScreen()
     }
 }
 
