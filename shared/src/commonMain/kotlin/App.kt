@@ -1,12 +1,12 @@
 
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.runtime.Composable
-import ui.screens.scrolltransformation.ScrollTransformation
+import ui.screens.magnifiereffect.ContentMagnificationEffect
 
 @Composable
 fun App() {
     MaterialTheme {
-        ScrollTransformation()
+        ContentMagnificationEffect()
     }
 }
 
