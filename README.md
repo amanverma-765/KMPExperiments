@@ -13,3 +13,6 @@ https://github.com/amanverma-765/KMPExperiments/assets/46085882/9f1826d5-8314-43
 ### [Card scroll transformation animation:](https://github.com/amanverma-765/KMPExperiments/tree/main/shared/src/commonMain/kotlin/ui/screens/scrolltransformation)
 https://github.com/amanverma-765/KMPExperiments/assets/46085882/1a9071ec-a566-4727-a3ee-0d9043f432a7
 
+## [Magnification effect example](https://github.com/amanverma-765/KMPExperiments/tree/main/shared/src/commonMain/kotlin/ui/screens/magnifiereffect)
+https://github.com/amanverma-765/KMPExperiments/assets/46085882/7ffb7f20-708e-4525-bdb8-dc01811b0f7d
+
