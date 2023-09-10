@@ -1,8 +1,8 @@
 # Experiments with kotlin & compose multi-platform
 
-This project contains a set of experiments of things made with Jetpack Compose. 
+This project contains a set of experiments of things made with Jetpack Compose.
 
-----------------------------------------------------------------
+**Note:**  these projects are only tested on android and desktop platforms
 
 ### [Flipping card animation:](https://github.com/amanverma-765/KMPExperiments/tree/main/shared/src/commonMain/kotlin/ui/screens/cardflipanimation)
 https://github.com/amanverma-765/KMPExperiments/assets/46085882/0f0fffd2-6681-43cf-9e6a-3c62af3ab370
