@@ -1,5 +1,5 @@
 # Experiments with kotlin & compose multi-platform
-This project contains a set of experiments of things made with Jetpack Compose.
+This project contains a set of experiments of things made with Compose & Kotlin Multi-Platform.
 
 ***Note:***  Only tested on android and desktop
 
