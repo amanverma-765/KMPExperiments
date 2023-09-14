@@ -1,7 +1,7 @@
 # Experiments with kotlin & compose multi-platform
-This project contains a set of experiments of things made with Jetpack Compose.
+This project contains a set of experiments of things made with Compose & Kotlin Multi-Platform.
 
-***Note:***  Only tested on android and desktop
+***Note:***  Only tested on android and desktop platforms
 
 * [Flipping card](#1-flipping-card-animation)
 * [Earth in space](#2-earth-in-space-animation)
@@ -21,5 +21,6 @@ https://github.com/amanverma-765/KMPExperiments/assets/46085882/1a9071ec-a566-47
 
 ### 4. [Magnification effect example](https://github.com/amanverma-765/KMPExperiments/tree/main/shared/src/commonMain/kotlin/ui/screens/magnifiereffect)
 *This works only with Android Platform*
+
 https://github.com/amanverma-765/KMPExperiments/assets/46085882/7ffb7f20-708e-4525-bdb8-dc01811b0f7d
 
