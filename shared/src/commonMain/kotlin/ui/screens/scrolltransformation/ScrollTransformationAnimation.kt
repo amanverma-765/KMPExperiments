@@ -15,7 +15,6 @@ import androidx.compose.runtime.mutableIntStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.alpha
-import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.graphicsLayer
 import androidx.compose.ui.unit.dp
 
@@ -80,53 +79,6 @@ fun ScrollTransformation() {
     }
 }
 
-val itemColors = listOf(
-
-    Color(0xFFFF1744),
-    Color(0xFFD500F9),
-    Color(0xFF00E5FF),
-    Color(0xFF76FF03),
-    Color(0xFF3D5AFE),
-    Color(0xFF1DE9B6),
-    Color(0xFF43A047),
-    Color(0xFF039BE5),
-    Color(0xFF00897B),
-    Color(0xFFFDD835),
-    Color(0xFFF8BBD0),
-    Color(0xFFD32F2F),
-    Color(0xFF69F0AE),
-    Color(0xFFFF6F00),
-    Color(0xFF01579B),
-    Color(0xFFBF360C),
-    Color(0xFFFBC02D),
-    Color(0xFF2962FF),
-    Color(0xFFAA00FF),
-    Color(0xFF00B8D4),
-    Color(0xFFD50000),
-    Color(0xFFD500F9),
-    Color(0xFFFF1744),
-    Color(0xFFD500F9),
-    Color(0xFF00E5FF),
-    Color(0xFF76FF03),
-    Color(0xFF3D5AFE),
-    Color(0xFF1DE9B6),
-    Color(0xFF43A047),
-    Color(0xFF039BE5),
-    Color(0xFF00897B),
-    Color(0xFFFDD835),
-    Color(0xFFF8BBD0),
-    Color(0xFFD32F2F),
-    Color(0xFF69F0AE),
-    Color(0xFFFF6F00),
-    Color(0xFF01579B),
-    Color(0xFFBF360C),
-    Color(0xFFFBC02D),
-    Color(0xFF2962FF),
-    Color(0xFFAA00FF),
-    Color(0xFF00B8D4),
-    Color(0xFFD50000),
-    Color(0xFFD500F9)
-)
 
 
 // Returns the lazyColumn scroll direction
